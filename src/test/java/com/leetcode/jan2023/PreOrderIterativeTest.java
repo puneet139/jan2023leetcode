@@ -8,7 +8,7 @@ import org.junit.Test;
 public class PreOrderIterativeTest {
 
     PreOrderIterative preOrderIterative;
-    
+
     @Before
     public void setUp(){
         preOrderIterative = new PreOrderIterative();
